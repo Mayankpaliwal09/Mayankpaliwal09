@@ -9,19 +9,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: 'Mayankpaliwal09'
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - name: Push SVG to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: 'Generate GitHub contribution snake svg'
-          add: 'dist/github-contribution-grid-snake.svg'
-      - name: Move to output branch
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Commit and Push to output branch
         run: |
-          git fetch
           git checkout -B output
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Update snake SVG"
-          git push origin output --force
+          git push --force origin output
+    # End of steps
