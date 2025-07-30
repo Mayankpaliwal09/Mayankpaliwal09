@@ -96,7 +96,8 @@
 ---
 <h2 align="left">GitHub Contribution</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayankpaliwal09/Mayankpaliwal09/output/github-snake.svg" alt="GitHub Snake Animation"/>
+<!--   <img src="https://raw.githubusercontent.com/Mayankpaliwal09/Mayankpaliwal09/output/github-snake.svg" alt="GitHub Snake Animation"/> -->
+  <img src="https://github.com/Mayankpaliwal09/Mayankpaliwal09/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 
