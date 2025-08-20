@@ -97,7 +97,14 @@
 
 <p>
   <h2 align="left">💻 Tech Stack</h2>
-
+<p align="left" style="
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:24px;        /* horizontal gap */
+  row-gap:32px;    /* extra top margin for wrapped rows */
+  margin:0;
+  padding
 <p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:24px; margin:0; padding:0;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="96" height="96">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="96" height="96">
