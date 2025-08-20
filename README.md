@@ -88,10 +88,11 @@
   <img src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" alt="JWT Token" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCTzqF8WN3P3IhRhQu19vkgKiMEXC7qcD93A&s" alt="tailwind" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://images.ctfassets.net/kftzwdyauwt9/7lqBnA8Gaz7fvmABCmlQ4x/6ce679925b23e96d410c8b5509480806/Canva.png?w=3840&q=90&fm=webp" alt="Canva" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/19369327?v=4" alt="RestAssured" width="80" height="80" style="background:#ffffff; padding:4px; border-radius:8px;"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbd7cx_cli9c_6c8ODLNNkfp_2WfN5cx4rsQ&s" alt="TestNG" width="80" height="80"/>     
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/restassured.svg" alt="RestAssured" width="80" height="80" style="background:#ffffff; padding:8px; border-radius:8px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbd7cx_cli9c_6c8ODLNNkfp_2WfN5cx4rsQ&s" alt="TestNG" width="80" height="80"/>     
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUY8AeEYi9_Y3c9T1FntE0CIjGhjh6VtVWXQzySUhOzIh9oalWrfrwfSPQk516B6bQJpM&usqp=CAU" width="80" height="80"/>
 
-Notes:
+
 </p>
 <br/>
 ---
