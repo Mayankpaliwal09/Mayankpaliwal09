@@ -68,33 +68,6 @@
 
 <br/>
 
-
-<h2 align="left">💻 Tech Stack</h2>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/e85680c2-4d4a-4325-9ee7-d59daafebe3f.png" alt="Express" width="80" height="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" alt="JWT Token" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCTzqF8WN3P3IhRhQu19vkgKiMEXC7qcD93A&s" alt="tailwind" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://images.ctfassets.net/kftzwdyauwt9/7lqBnA8Gaz7fvmABCmlQ4x/6ce679925b23e96d410c8b5509480806/Canva.png?w=3840&q=90&fm=webp" alt="Canva" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/19369327?v=4](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2BoZf-nQXK6CNdeFsXyl590aWMnnd_x3og&s" alt="RestAssured" width="80" height="80"/>   
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbd7cx_cli9c_6c8ODLNNkfp_2WfN5cx4rsQ&s" alt="TestNG" width="80" height="80"/>     
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUY8AeEYi9_Y3c9T1FntE0CIjGhjh6VtVWXQzySUhOzIh9oalWrfrwfSPQk516B6bQJpM&usqp=CAU"  alt="Allure" width="80" height="80"/>
-
-
-</p>
-
 <p>
   <h2 align="left">💻 Tech Stack</h2>
 <p align="left" style="
