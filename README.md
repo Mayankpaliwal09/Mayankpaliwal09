@@ -76,8 +76,8 @@
   align-items:center;
   gap:24px;        /* horizontal gap */
   row-gap:32px;    /* extra top margin for wrapped rows */
-  margin:0;
-  padding >
+  margin:2px;
+  padding:10px >
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="96" height="96">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="96" height="96">
