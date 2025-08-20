@@ -38,12 +38,6 @@
   </a>
 </p>
 
-## 🏆 GitHub Trophies
-
-![Profile views](https://komarev.com/ghpvc/?username=mayankpaliwal09&label=Profile%20views&color=0e75b6&style=flat)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mayankpaliwal09&theme=juicyfresh&no-frame=true&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 <h2 align="left">🌱 Currently Learning</h2>
